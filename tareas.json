@@ -1,0 +1,18 @@
+[
+    {
+        "titulo": "ver tutoriales JS",
+        "estado": "terminado"
+    },
+    {
+        "titulo": "Leer documentacion JS",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "Realizar Actividades Playground",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "apptareas",
+        "estado": "pendiente"
+    }
+]
